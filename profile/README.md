@@ -19,10 +19,10 @@ The **Advanced Programming** course focuses on building strong programming found
 | Repository | Description |
 |-------------|-------------|
 | `slides-<term>` | Lecture slides and course presentations |
-| `assignments-<term>` | Assignments, projects, and grading materials |
-| `site-ap` | The official course website (Next.js + Tailwind) |
-| `ap-workshops` | Linux, Git, and Java workshops |
-| `project-domains` | Example project: Domain Monitoring System |
+| `Assignments-<term>` | Assignments, projects, and grading materials |
+| `Site` | The official course website (Next.js + Tailwind) |
+| `Workshops` | Example workshop: Linux, Git, and Java workshops |
+| `Project` | Example project: Domain Monitoring System |
 
 ---
 
