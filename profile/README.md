@@ -27,7 +27,8 @@ The **Advanced Programming** course focuses on building strong programming found
 ---
 
 ## Course Team
-- **Instructor:** Dr. Ali Najimi  
+- **Instructor:** Dr. Ali Najimi
+- **HeadTA:** Sohaib Sadeqi
 - **Technical Developer:** Hossein Masihi  
 - **Assistants & Contributors:** AP Teaching Team and Sharif students  
 
